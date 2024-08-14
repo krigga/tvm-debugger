@@ -4,6 +4,10 @@
   "description": "Debugger for TON contracts",
   "version": "0.0.1",
   "publisher": "krigga",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krigga/tvm-debugger.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
